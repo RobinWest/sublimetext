@@ -1,0 +1,8 @@
+<!-- Info -->
+<snippet>
+	<content><![CDATA[
+Log::Info($0);
+]]></content>
+	<tabTrigger>LI</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

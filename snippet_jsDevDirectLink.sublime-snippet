@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<?=DL('endpoints/$1', '$2')?>
+]]></content>
+	<tabTrigger>devDL</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

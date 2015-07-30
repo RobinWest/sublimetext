@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+&pound;
+]]></content>
+	<tabTrigger>£</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

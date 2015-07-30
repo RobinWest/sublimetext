@@ -1,0 +1,8 @@
+<!-- Warning -->
+<snippet>
+	<content><![CDATA[
+Log::Warning($0);
+]]></content>
+	<tabTrigger>LW</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+directive('$1', function(){
+	return {
+		restrict: '${2:E}',
+		scope: {
+			${3:data}: '${4:=}'
+		},
+		${5:templateUrl: '/angular/modules/',}
+		${6:controller: function(\$scope, \$element, \$attrs){
+		\},}
+		link: function(scope, el, attr, ctrl, transclude){
+			$0
+		}
+	}
+})
+]]></content>
+	<tabTrigger>ngDir</tabTrigger>
+	<scope>source.js</scope>
+	<description>Creates an Angular Directive scaffold</description>
+</snippet>

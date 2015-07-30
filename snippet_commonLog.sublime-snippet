@@ -1,0 +1,8 @@
+<!-- Error -->
+<snippet>
+	<content><![CDATA[
+Log::Error($0);
+]]></content>
+	<tabTrigger>LE</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
